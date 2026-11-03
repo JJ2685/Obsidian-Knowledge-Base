@@ -1,0 +1,10 @@
+# Obsidian 运行时状态与临时文件
+.obsidian/workspace.json
+.trash/
+
+# 插件运行时数据
+.copilot/
+.opencode/
+
+# Obsidian Git 辅助脚本（凭据提示）
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
